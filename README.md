@@ -17,3 +17,11 @@ Este proyecto en Python permite generar contraseñas seguras, validarlas y encri
 
 ```bash
 python3 password-encryption-tool.py
+
+## Requisitos
+
+Python 3.x instalado
+
+## Autora
+
+Desarrollado por Karla Mendoza
